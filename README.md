@@ -1,2 +1,0 @@
-# Raffle
-Solidity Raffle Project
